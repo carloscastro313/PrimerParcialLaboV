@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First exam</string>
+    <string name="editarActivity">Edit user</string>
+    <string name="editarBtn">Edit</string>
+    <string name="tvUsuario">User</string>
+    <string name="tvContraseña">Password</string>
+    <string name="tvRepetir">Repeat password</string>
+    <string name="tvTipo">Type</string>
+    <string name="btnGuardar">Save</string>
+</resources>

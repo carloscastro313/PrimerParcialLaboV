@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primer parcial</string>
+    <string name="editarActivity">Editar usuario</string>
+    <string name="editarBtn">Editar</string>
+    <string name="tvUsuario">Usuario</string>
+    <string name="tvContraseña">Contraseña</string>
+    <string name="tvRepetir">Repita la contraseña</string>
+    <string name="tvTipo">Tipo</string>
+    <string name="btnGuardar">Guardar</string>
+</resources>
